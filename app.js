@@ -3,21 +3,20 @@
 let name={
     firstName:"Guru",
     lastName:"Charan",
-
 }
 let printFullName=function (homeTown,state){
     console.log(this.firstName+this.lastName+" "+"from"+ " "+homeTown +" "+state)
 }
+
 printFullName.call(name,'banglore','Karnataka')
 
 let name2={
     firstName:'Virat',
     lastName:'Kohli',
-
 }
 // // function borrowing-------
 
-// // printFullName.call(name2,'chittoor', 'Andra pradesh')
+printFullName.call(name2,'chittoor', 'Andra pradesh')
 
 // // apply----
 
@@ -63,8 +62,8 @@ let name2={
 
 // function carrying-----(EP-03)
 
-// Unravel the concept of Currying, a technique to transform a function with 
-// multiple arguments into a sequence of nested functions, simplifying function composition and parameter handling.
+// Unravel the concept of Currying, a technique to transform a function with multiple 
+// arguments into a sequence of nested functions, simplifying function composition and parameter handling.
 
 // let multiply = function (x, y) {
 //   console.log(x * y);
@@ -90,17 +89,309 @@ let name2={
 
 // using Closures------
 
-// let multiply=function(x){
-//     return function(y){
-//         console.log(x*y);
-//     }
-// }
-// let multiplyByTwo=multiply(2)
-// multiplyByTwo(4)
+let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
 
-// let multiplyByThree=multiply(3)
-// multiplyByThree(4)
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
 
+let multiplyByThree=multiply(3)
+multiplyByThree(4)
+
+let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)let multiply=function(x){
+    return function(y){
+        console.log(x*y);
+    }
+}
+
+let multiplyByTwo=multiply(2)
+multiplyByTwo(4)
+
+let multiplyByThree=multiply(3)
+multiplyByThree(4)
 
 // Debounceing--------(Ep-04)
 
