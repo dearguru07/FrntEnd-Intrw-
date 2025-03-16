@@ -65,20 +65,477 @@ printFullName.call(name2,'chittoor', 'Andra pradesh')
 // Unravel the concept of Currying, a technique to transform a function with multiple 
 // arguments into a sequence of nested functions, simplifying function composition and parameter handling.
 
-// let multiply = function (x, y) {
-//   console.log(x * y);
-// };
+let multiply = function (x, y) {
+  console.log(x * y);
+};
 
-// let multiplyByTwo=function(x,y){
-//     let x=4
-//     console.log(x*y);
-// }
-// multiplyByTwo(y)
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
 
-// let multiplyByfOUR = multiply.bind(this, 4);
-// multiplyByfOUR(7);
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
 
 
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+  let multiply = function (x, y) {
+    console.log(x * y);
+  };
+  
+  let multiplyByTwo=function(x,y){
+      let x=4
+      console.log(x*y);
+  }
+  multiplyByTwo(y)
+  
+  let multiplyByfOUR = multiply.bind(this, 4);
+  multiplyByfOUR(7);
+let multiply = function (x, y) {
+  console.log(x * y);
+};
+
+let multiplyByTwo=function(x,y){
+    let x=4
+    console.log(x*y);
+}
+multiplyByTwo(y)
+
+let multiplyByfOUR = multiply.bind(this, 4);
+multiplyByfOUR(7);
+                                                        
 // let multiplyByTwo = multiply.bind(this, 4,2);
 // multiplyByTwo(7);
 
@@ -89,309 +546,18 @@ printFullName.call(name2,'chittoor', 'Andra pradesh')
 
 // using Closures------
 
-let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
+// let multiply=function(x){
+//     return function(y){
+//         console.log(x*y);
+//     }
+// }
 
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
+// let multiplyByTwo=multiply(2)
+// multiplyByTwo(4)
 
-let multiplyByThree=multiply(3)
-multiplyByThree(4)
+// let multiplyByThree=multiply(3)
+// multiplyByThree(4)
 
-let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)let multiply=function(x){
-    return function(y){
-        console.log(x*y);
-    }
-}
-
-let multiplyByTwo=multiply(2)
-multiplyByTwo(4)
-
-let multiplyByThree=multiply(3)
-multiplyByThree(4)
 
 // Debounceing--------(Ep-04)
 
