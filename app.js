@@ -1,24 +1,24 @@
 // console.log("Heloo world.....");
 
-let name = {
-  firstName: "Guru",
-  lastName: "Charan",
-};
-let printFullName = function (homeTown, state) {
-  console.log(
-    this.firstName + this.lastName + " " + "from" + " " + homeTown + " " + state
-  );
-};
+// let name = {
+//   firstName: "Guru",
+//   lastName: "Charan",
+// };
+// let printFullName = function (homeTown, state) {
+//   console.log(
+//     this.firstName + this.lastName + " " + "from" + " " + homeTown + " " + state
+//   );
+// };
 
-printFullName.call(name, "banglore", "Karnataka");
+// printFullName.call(name, "banglore", "Karnataka");
 
-let name2 = {
-  firstName: "Virat",
-  lastName: "Kohli",
-};
-// // function borrowing-------
+// let name2 = {
+//   firstName: "Virat",
+//   lastName: "Kohli",
+// };
+// // // function borrowing-------
 
-printFullName.call(name2, "chittoor", "Andra pradesh");
+// printFullName.call(name2, "chittoor", "Andra pradesh");
 
 // // apply----
 
@@ -90,10 +90,51 @@ printFullName.call(name2, "chittoor", "Andra pradesh");
 
 // Debounceing--------(Ep-04)
 
-async function getData() {
-    return 'Hello world'
-}
-let data=getData()
-let sol=data.then((res)=> res.data)
-// console.log(data)
-console.log(sol)
+// async function getData() {
+//     return 'Hello world'
+// }
+// let data=getData()
+
+// let sol=data.then((res)=> res.data)
+// // console.log(data)
+// console.log(sol)
+
+// console.log('one')
+// console.log('two')
+// console.log('three')
+// const pro=new Promise((resolve,reject)=>{
+//     console.log('hello')
+//     reject()
+
+// })
+// pro.then(()=>{
+//     console.log('five.....')
+// })
+
+
+
+// let sum = function (a) {
+//   return function (b) {
+//     if (b) {
+//       return sum(a + b);
+//     }
+//     return a;
+//   };
+// };
+// console.log(sum(1)(2)(4)(5)());
+
+// let res=sum(1,2)
+// console.log(res())
+
+
+// let sum=(a)=>{
+//     return (b)=>{
+//         return b?sum(a+b):a;
+//     }
+// }
+// console.log(sum(10)(10)(2)())
+
+
+let sum=(a)=> (b)=> b?sum(a+b):a;
+    
+console.log(sum(10)(10)(12)())
